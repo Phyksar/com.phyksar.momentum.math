@@ -1,0 +1,15 @@
+{
+    "name": "com.phyksar.momentum.math",
+    "version": "0.1.0",
+    "displayName": "Momentum Math",
+    "unity": "2022.2",
+    "unityRelease": "5f1",
+    "keywords": [
+        "momentum",
+        "math"
+    ],
+    "author": {
+        "name": "Phyksar",
+        "email": "phyksar@gmail.com"
+    }
+}
