@@ -1,7 +1,8 @@
+using Momentum.Math.Extensions;
 using NUnit.Framework;
 using System.Collections.Generic;
 
-namespace Momentum.Math.Tests.Runtime
+namespace Tests.Runtime.Momentum.Math.Extensions
 {
     public struct NormalizeBetweenArguments
     {

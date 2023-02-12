@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Momentum.Math
+namespace Momentum.Math.Extensions
 {
     public static class FloatExtensions
     {
